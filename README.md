@@ -1,30 +1,26 @@
-Project: Paint Project V3
-
-Original Date: 2019 - 2020 (Grade 11)
-
-Language: Python 3.x
+A Danganronpa V3-themed painting suite featuring character-driven UI modes and custom canvas tools, developed as a Grade 11 CS project (2019-2020).
 
 1. Prerequisites
-To run this application, you must have Python installed on your system. Additionally, the following are required:
+To run this application, you must have Python 3.x installed. Additionally, the following are required:
 
-Pip: Python's package installer (usually included with Python).
+Pip: Python's package installer.
 
-Pygame: The library used for the graphics and window management.
+Pygame: The library used for graphics and window management.
 
 2. Installation
-Open your terminal or command prompt and run the following command to install the necessary library:
+Open your terminal or command prompt and run:
 
 Bash
 pip install pygame
 3. File Structure
-For the program to run without FileNotFound errors, ensure the directory is organized as follows:
+For the program to run, ensure the directory is organized as follows:
 
 PaintProject.py (The main script)
 
-/images/ (Folder containing all PNG assets)
+/images/ (Folder containing all character sprites and UI assets)
 
 4. Running the App
-Double-click PaintProject.py or run it via terminal:
+Run the script via terminal:
 
 Bash
 python PaintProject.py
