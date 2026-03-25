@@ -24,3 +24,6 @@ Run the script via terminal:
 
 Bash
 python PaintProject.py
+
+💡 Note for VS Code Users:
+If you encounter a ModuleNotFoundError for Pygame, ensure your Python Interpreter is set to the same version where Pygame was installed (e.g., Python 3.13). You can change this by clicking the Python version in the bottom-right corner of VS Code.
